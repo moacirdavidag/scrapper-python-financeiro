@@ -48,4 +48,4 @@ def scrap_tradingview(url, pasta="indices"):
 
     driver.quit()
 
-scrap_tradingview("https://br.tradingview.com/markets/indices/quotes-asia/", "indices")
+scrap_tradingview("https://br.tradingview.com/markets/indices/quotes-middle-east/", "indices")
